@@ -1,0 +1,29 @@
+{
+  "name": "s-roboto",
+  "version": "0.0.1",
+  "main": [
+    "css/roboto.css",
+    "fonts/*.*"
+  ],
+  "authors": [ "Sajera: Serhii P <allsajera@gmail.com>" ],
+  "description": "Roboto Font Family Bower-ready (LESS-ready, and plain CSS-ready)",
+  "keywords": [
+    "roboto",
+    "font",
+    "fontface",
+    "css",
+    "less",
+    "web",
+    "design"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
