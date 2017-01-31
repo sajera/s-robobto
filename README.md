@@ -1,6 +1,6 @@
-# Poppins Font Family
+# Roboto Font Family
 
-> Poppins Font Family Bower-ready (LESS-ready, and plain CSS-ready)
+> Roboto Font Family Bower-ready (LESS-ready, and plain CSS-ready)
 
 ## How to use
 
@@ -18,6 +18,6 @@
 
 ## License
 
-The Poppins Font Family is distributed under the [Open Font Licence](http://scripts.sil.org/cms/scripts/page.php?item_id=OFL_web).
+The Roboto Font Family is distributed under the [Open Font Licence](http://scripts.sil.org/cms/scripts/page.php?item_id=OFL_web).
 
 The source code in this project is distributed under the MIT License &copy; Vladimir Mechkauskas
